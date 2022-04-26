@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="accError">no accel sensor on that device</string>
+    <string name="geomagError">no geomag sensor on that device</string>
+</resources>
